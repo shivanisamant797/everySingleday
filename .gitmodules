@@ -1,0 +1,9 @@
+[submodule "modules/notificationbe"]
+	path = modules/notificationbe
+	url = https://github.com/shivanisamant797/notificationbe.git
+[submodule "modules/coporatebe"]
+	path = modules/coporatebe
+	url = https://github.com/shivanisamant797/coporatebe.git
+[submodule "modules/collegebe"]
+	path = modules/collegebe
+	url = https://github.com/shivanisamant797/collegebe.git
